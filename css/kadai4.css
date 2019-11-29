@@ -1,0 +1,41 @@
+h1.umi{
+    color:aqua;
+        font-size:50px;
+        font-weight:bold;
+        font-family:"Impact";
+        text-align: center;
+        background-color: black;
+    }
+h1{
+    color:red;
+        font-size:50px;
+        font-weight:bold;
+        font-family:"Impact";
+        text-align: center;
+        background-color: aquamarine;
+    }
+body{
+    background-image: url("../images/ダウンロード.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom right;   
+}
+h2.a{color:tomato;
+        font-size:50px;
+        font-weight:bold;
+        font-family:"Impact";
+        text-align: center;
+        background-color: blue;}
+h2{color:crimson;
+        font-size:50px;
+        font-weight:bold;
+        font-family:"Impact";
+        text-align: center;
+        background-color: yellow;}
+h3{
+    color: darkorange
+    
+}
+
+tr{ background-color: red
+  }
