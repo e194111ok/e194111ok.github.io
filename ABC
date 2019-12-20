@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+   <head>
+ <meata chareset="utf-8"></meata>
+       <title >タイトル</title>
+<link rel="stylesheet" type="text/css" href="css/kadai5.css">
+    </head>
+<body>
+ <div class="title">
+     タイトル
+ </div>
+<div class="menu">
+      <span class="menuitem">メニュー１</span>
+    <div class="menu"><span class="menuitem">メニュー2</span>
+        
+    <div class="menu"><span class="menuitem">メニュー3</span>
+        <span class="image1">画像１</span>
+    </div>
+    
+    <div class="article">
+        あああああああああ
+    </div>
+    
+   <div class="footer">
+    製作者　筬島　海斗
+    </div> 
+    
+</body>
+    
+</html>
